@@ -190,11 +190,11 @@ The Congress requires a named owner for each role. Update this table and `D.CONF
 
 | Role | Name |
 |---|---|
-| Team leader / coordinator | |
-| Business analyst / data scientist | |
-| UI/UX / frontend developer | |
-| Backend / data engineer | |
-| Presentation / communication lead | |
+| Team leader / coordinator | Shohedozzaman Basunia |
+| Business analyst / data scientist | Mahfuza Maisha |
+| UI/UX / frontend developer | Mahfuza Maisha |
+| Backend / data engineer | Mujahida Joynab |
+| Presentation / communication lead | Tanisha Chowdhury |
 | NRB / global advisor | |
 
 ## Acknowledgements
