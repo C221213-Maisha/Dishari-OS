@@ -4,7 +4,6 @@
 
 Dishari (দিশারী, "the one who shows the way") is an AI tutor that teaches with four research-based methods, turns the NCTB science curriculum into real-world challenges, and converts what a learner masters into a skill credential that employers can verify. It is designed first for rural, madrasah and polytechnic learners, works in Bangla and English, and runs on a 2G connection.
 
-> Live demo: add your deployment URL here after following [SETUP.md](SETUP.md).
 > Project presentation: open [`docs/presentation/index.html`](docs/presentation/index.html) in a browser.
 
 ---
@@ -97,8 +96,6 @@ Supporting features:
 The full alignment, including the 180-second preliminary format and the Section 15 responsible-AI commitments, is explained in the [project presentation](docs/presentation/index.html).
 
 ## Getting started
-
-Step-by-step instructions for teammates, from downloading the code to deploying it, are in **[SETUP.md](SETUP.md)**.
 
 The short version:
 
