@@ -186,8 +186,6 @@ Checks retrieval accuracy on a 30-question bilingual gold set, out-of-scope refu
 
 ## Team
 
-The Congress requires a named owner for each role. Update this table and `D.CONFIG.team` in `public/assets/js/pages/pitchdeck.js`.
-
 | Role | Name |
 |---|---|
 | Team leader / coordinator | Shohedozzaman Basunia |
